@@ -250,3 +250,5 @@ athletix-academy/
 
 ## 🔒 License
 Proprietary Client Project — ATHLETIX ACADEMY. All rights reserved.
+#   a t h l e t i x - a c a d e m y  
+ 
